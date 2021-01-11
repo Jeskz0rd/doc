@@ -1,1 +1,1 @@
-# doc
+# STATIC DOCUMENTATION
